@@ -21,8 +21,8 @@ Users should be able to:
 ### Screenshot
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jslcoding/Price_card)
+- Live Site URL: [Add live site URL here](https://jslcoding.github.io/Price_card/)
 
 ### Built with
 - Semantic HTML5 markup
